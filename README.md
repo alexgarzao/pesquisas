@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=lUCLFOISuXk
 
 DDD & Microservices: At Last, Some Boundaries! • Eric Evans
 https://www.youtube.com/watch?v=yPvef9R3k-M
+
+## Performance
+
+* extreme performance architecture: https://www.youtube.com/watch?v=eRjWYjEf8n4
